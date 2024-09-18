@@ -46,9 +46,7 @@ Connect the components as per the [circuit diagram](#circuit-diagram) and upload
 - Adjust the soil moisture threshold in the code to suit the plant type.
 - Power on the system, and it will automatically monitor and water the plants based on real-time sensor data, displayed on the LCD.
 
-## Circuit Diagram
 
-![diagram_page-0001 (2)](https://github.com/user-attachments/assets/d50b7f37-8a5f-45d5-aaf6-93b1f40611e8)
 
 https://github.com/user-attachments/assets/beede9d0-3db9-44d0-98c8-99d0d8b1370f
 
