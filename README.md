@@ -1,4 +1,3 @@
-# Plant-Watering-and-Weather-Monitoring-System
 
 
 # 🌱 Plant and Weather Monitoring System 🌦️
@@ -55,8 +54,7 @@ https://github.com/user-attachments/assets/beede9d0-3db9-44d0-98c8-99d0d8b1370f
 
 https://github.com/user-attachments/assets/6d3a23de-8c67-4e39-ac2e-8680bff6a703
 
-## Developed by
-**Lavitra Sahu**. Feel free to contribute!
+
 
 ## Future Improvements
 
